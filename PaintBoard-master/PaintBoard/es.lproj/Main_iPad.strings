@@ -1,0 +1,9 @@
+
+/* Class = "UILabel"; text = "New"; ObjectID = "RQT-7t-jBl"; */
+"RQT-7t-jBl.text" = "New";
+
+/* Class = "UITextView"; text = "Copyright (c) 2015 Changkun Zhao\nAll Rights Reserved\n \nThis product is protected by copyright and distributed under licenses restricting copying, distribution and decompilation.  All icons used in this app are from icon8.com. "; ObjectID = "fQf-0Q-un0"; */
+"fQf-0Q-un0.text" = "Copyright (c) 2015 Changkun Zhao\nAll Rights Reserved\n \nThis product is protected by copyright and distributed under licenses restricting copying, distribution and decompilation.  All icons used in this app are from icon8.com. ";
+
+/* Class = "UILabel"; text = "Open"; ObjectID = "vTd-FJ-5tp"; */
+"vTd-FJ-5tp.text" = "Open";
